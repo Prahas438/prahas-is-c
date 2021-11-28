@@ -1,0 +1,42 @@
+body
+{
+    font-family: 'Comforter Brush', cursive;
+    background:black;
+    color: goldenrod;
+}
+#heading{
+    font-size: 50px;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+.test_images{
+    background:black;
+    color: goldenrod;
+    border: solid 1px goldenrod;
+}
+.test_images h4{
+    background: goldenrod;
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px goldenrod;
+    color: black;
+}
+.result{
+    background: black;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow:5px 5px 18px goldenrod;
+}
+.copyright_footer{
+    position:fixed;
+    color: black;
+    bottom: 0;
+    background-color: goldenrod;
+    line-height: 3;
+    text-align: center;
+    width: 100%;
+    margin-top: 50px;
+}
